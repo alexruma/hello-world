@@ -1,2 +1,2 @@
 # hello-world
-Learning Git
+Learning Git so I can git a job.
